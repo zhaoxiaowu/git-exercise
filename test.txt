@@ -1,1 +1,9 @@
-work2
+work2 test1 brach 修改temp
+test 修改push333222 push3 backup
+
+
+## 代码已经push发现错了
+
+**出错内容在本地**
+
+--amend 修改    push  -- force强制push     这样push到自己分支的提交就会被修改
