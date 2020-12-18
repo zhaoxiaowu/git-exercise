@@ -2,4 +2,4 @@ init main
 feture dev
 feture 2
 
-main2
+main增加新功能
