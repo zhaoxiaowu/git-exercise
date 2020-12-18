@@ -1,1 +1,2 @@
+init main
 feture dev
