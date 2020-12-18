@@ -1,2 +1,1 @@
-xinde1
-tianjia   main
+init
