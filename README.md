@@ -24,3 +24,5 @@ JAM提交
 feture-2开始开发新的功能
 
 feture-2 功能点1
+
+feture-3开始开发新的功能
